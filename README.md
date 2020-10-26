@@ -19,13 +19,9 @@ The dataset provides a comprehensive list of popular games released around the l
 ## Team Members
 
 - Tanishq Aneja: I am fixated with design, accuracy, data management and have a keen interest in stock trading!
-<<<<<<< HEAD
-- Person 2: one sentence about you!
-- Neilansh Rajpal: I am interested in coding, astronomy, DJing and I'm a huge sports enthusiast!
-=======
 - Kris Ongvises: I am relatively new to programming but I am interested in learning about data management.
-- Person 3: one sentence about you!
->>>>>>> 0cb29bfae77ce4108fb74e4d685bcce2d26eb742
+- Neilansh Rajpal: I am interested in coding, astronomy, DJing and I'm a huge sports enthusiast!
+
 
 ## References
 Original dataset: https://www.kaggle.com/sidtwr/videogames-sales-dataset
