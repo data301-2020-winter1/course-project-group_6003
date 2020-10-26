@@ -10,17 +10,29 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 ## Describe your topic/interest in about 150-200 words
 
 
+<<<<<<< HEAD
 Most of us, gave away a majority of our childhood into gaming or having played in abundance in our teenage days. Therefore, we wished to make this information come to use. The data set we came across is regarding the sales of different PS4 video games spread within different countries. It helps us understand the popularity of different genres in different places, from sports to adventure thrilling games. We hope to explore and analyse the popularity of each video game genre by examining the sales percentage and making comparisons between different  geographical regions affecting the popularity of the video game genre. 
+=======
+Most of us, gave away a majority of our childhood into gaming or having played in abundance in our teenage days. Therefore, we wished to make this information come to use. The data set we came across is regarding the sales of different video game genres spread within different countries. It helps us understand the popularity of different genres in different places, from sports to adventure thrilling games. We hope to explore and analyse the popularity of each video game genre by examining the sales percentage and making comparisons between different  geographical regions affecting the popularity of the video game genre. The purpose of this dataset is for transparency and public interest as this dataset is not necessarily hidden from the public but there is a lack of data analysis of it. We believe how the data was collected was through historical records digitized as we are looking through historical records of sales. 
+>>>>>>> 0cb29bfae77ce4108fb74e4d685bcce2d26eb742
 
 
 ## Describe your dataset in about 150-200 words
 
+<<<<<<< HEAD
 {Add your stuff here}
 
 ## Team Members
 
 - Tanishq Aneja: I am fixated with design, accuracy, data management and have a keen interest in stock trading!
 - Person 2: one sentence about you!
+=======
+The dataset provides a comprehensive list of popular games released around the last 20 years. This video games are then categorized into different genres, and from there is analyzed based on their sales in different regions around the world. With the dataset that is provided We are hoping on analyzing the popularity of each video game genre by examining the sales percentage and comparing how popular each video game genre differs from different regions around the world. The question we are trying to answer is does geographic differences affect the popularity of a video game genre. We are interested in this dataset as it gives us insight to what video game genres are popular in which region of the world and to compare what is considered a popular genre; the dataset also provides us information about certain video game genre trends. There are no specific questions that we want to specifically explore as it coincides with our reasons and interest in analyzing this dataset. 
+## Team Members
+
+- Tanishq Aneja: I am fixated with design, accuracy, data management and have a keen interest in stock trading!
+- Kris Ongvises: I am relatively new to programming but I am interested in learning about data management.
+>>>>>>> 0cb29bfae77ce4108fb74e4d685bcce2d26eb742
 - Person 3: one sentence about you!
 
 ## References
