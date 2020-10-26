@@ -9,7 +9,9 @@ Details for Milestone are available on Canvas (left sidebar, Course Project) or 
 
 ## Describe your topic/interest in about 150-200 words
 
-{Add your stuff here}
+
+Most of us, giving away a majority of our childhood into gaming or having played in abundance in our teenage days wished to make this information come to use. The data set we came across is regarding the sales of different PS4 video games spread within different countries. It helps us understand the popularity of different genres in different places, from sports to adventure thrilling games. We hope to explore and analyse the popularity of each video game genre by examining the sales percentage and making comparisons between different  geographical regions affecting the popularity of the video game genre. 
+
 
 ## Describe your dataset in about 150-200 words
 
