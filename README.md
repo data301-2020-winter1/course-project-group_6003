@@ -16,6 +16,7 @@ Most of us, gave away a majority of our childhood into gaming or having played i
 ## Describe your dataset in about 150-200 words
 
 The dataset provides a comprehensive list of popular games released around the last 20 years. This video games are then categorized into  different genres, and from there is analyzed based on their sales in different regions around the world. With the dataset that is provided We are hoping on analyzing the popularity of each video game genre by examining the sales percentage and comparing how popular each video game genre differs from different regions around the world. The question we are trying to answer is does geographic differences affect the popularity of a video game genre. *We are interested in this dataset as it gives us insight to what video game genres are popular in which region of the world and to compare what is considered a popular genre; the dataset also provides us information about certain video game genre trends*. There are no specific questions that we want to specifically explore as it coincides with our reasons and interest in analyzing this dataset. 
+
 # Team Members
 
 - **Tanishq Aneja**: I am fixated with design, accuracy, data management and have a keen interest in stock trading!
