@@ -25,5 +25,5 @@ The dataset provides a comprehensive list of popular games released around the l
 
 
 # References
-Original dataset: [text placeholder] (https://www.kaggle.com/sidtwr/videogames-sales-dataset)
+Original dataset: [here] (https://www.kaggle.com/sidtwr/videogames-sales-dataset)
 
