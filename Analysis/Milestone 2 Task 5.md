@@ -9,7 +9,7 @@ According to our analysis the video game genre with most releases is **action** 
 	To further examine the popularity of video game genres we examined the sales of each video game genre based on that region’s sales.
 
 
-## ANALYZING DIFFERENT VIDEO GAME GENRES BY REGION. ##
+## ANALYZING DIFFERENT VIDEO GAME GENRES BY REGION ##
 
 - In North America the most popular game based on sales in North America alone seems to be a sports video game with sales of about 41.36 (Wii sports) followed by platform at 29.08 and shooters at 26.83. In fact, the sales for Wii sports in North America constituted more than 50% of global sales. Wii sports is a video game that caters to all ages, hence the large sale and popularity. In addition, most of the world’s biggest sports leagues are based in North America, examples range from the NBA, MLB, and NHL. Due to the prevalence of sports and sports leagues in North America, it would only make sense for game publishers to capitalize on this market. It is worth mentioning that despite the large sales in sports video games the majority of video game consumers in North America would actually prefer action to sports games. However action games were unable to translate their popularity and success into high game sales.  In terms of genre, action games had the most total sales 591.2, while sports and shooter were almost at par with total sales of 457.5 and 448.8 respectively. An interesting feature observed was that total sales of action games in North America (591.23) was almost 50% of total sales of action games (1203.16) globally.
 
