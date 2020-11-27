@@ -2,7 +2,7 @@
 
 ### Research Question: ###
 ***Exploring popularity of video game genres across different regions, and presenting them.***
-### ***Corrections made after Feedback***
+### ***Corrections made after feedback*** ###
 The main Research questions that we are trying to answer are as follows:
 1) Comparing the sales of different genres of video games in different regions, primarily North America, Europe, and Japan.
 2) Calculating the average number of sale per genre in each region.
