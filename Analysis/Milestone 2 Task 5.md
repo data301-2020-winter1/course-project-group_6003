@@ -21,6 +21,11 @@ According to our analysis the video game genre with most releases is **action** 
 
 - It can be inferred that North America is the largest market in terms of video game sales; With this statistic game developers would focus on the North American market as its main primary consumer. This could possibly result in game developers catering more towards the preferences of those in North America. 
 
+## Corrections made after Feedback 
+The main Research questions that we are trying to answer are as follows:
+1) Comparing the sales of different genres of video games in different countries (United States, Europe and Japan)
+2) Calculating the average number of sale per genre in each country.
+This question help us answer the most popular games which sold as per country and assists us to understand the mindset of the society.
 
 
 
