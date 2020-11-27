@@ -2,12 +2,16 @@
 
 ### Research Question: ###
 ***Exploring popularity of video game genres across different regions, and presenting them.***
+### ***Corrections made after Feedback***
+The main Research questions that we are trying to answer are as follows:
+1) Comparing the sales of different genres of video games in different regions, primarily North America, Europe, and Japan.
+2) Calculating the average number of sale per genre in each region.
+The aim of the analysis is to explore the video game sales of different genres in different regions. The analysis also looks at the genres popular in these regions, and tries to explore the factors associated to it. (For example, interestingly the genre that was most popular in Japan was role-playing, followed by platform games. The total Role-Playing game sales and in North America the most popular game based on sales in North America alone seems to be a sports video game with sales)
 
 Through the various analysis that was done on the dataset, it is clear that each region around the world has a clear distinct favourite video game genre; The main regions that we are comparing through are North America, Europe, and Japan. These main regions are the largest market in terms of video game sales and are where most video game developer and publishing companies are located. The video game categories include various genres including action, shooter, sports, and simulation, which were played across different gaming consoles. The games also vary in launch dates, ranging from those released in as early as the 1990s and those released in 2016.
 
 According to our analysis the video game genre with most releases is **action**  with around approximately 3250 releases followed by sports at around 2400 releases. The reason as to why these two video game genres are the most released could be an indication of the consumers preference. However domestically the popularity of the video game genre may differ but through our analysis the most released genre were the two.
 	To further examine the popularity of video game genres we examined the sales of each video game genre based on that region’s sales.
-
 
 ## ANALYZING DIFFERENT VIDEO GAME GENRES BY REGION ##
 
@@ -21,9 +25,4 @@ According to our analysis the video game genre with most releases is **action** 
 
 - It can be inferred that North America is the largest market in terms of video game sales; With this statistic game developers would focus on the North American market as its main primary consumer. This could possibly result in game developers catering more towards the preferences of those in North America. 
 
-## Corrections made after Feedback 
-The main Research questions that we are trying to answer are as follows:
-1) Comparing the sales of different genres of video games in different countries (United States, Europe and Japan)
-2) Calculating the average number of sale per genre in each country.
-This question help us answer, the most popular games which are sold as per country and assists us to understand the mindset of the society. 
-for example, interestingly the genre that was most popular in Japan was role-playing, followed by platform games. The total Role-Playing game sales and in North America the most popular game based on sales in North America alone seems to be a sports video game with sales
+
