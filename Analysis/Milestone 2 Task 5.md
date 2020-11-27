@@ -25,7 +25,5 @@ According to our analysis the video game genre with most releases is **action** 
 The main Research questions that we are trying to answer are as follows:
 1) Comparing the sales of different genres of video games in different countries (United States, Europe and Japan)
 2) Calculating the average number of sale per genre in each country.
-This question help us answer the most popular games which sold as per country and assists us to understand the mindset of the society.
-
-
-
+This question help us answer, the most popular games which are sold as per country and assists us to understand the mindset of the society. 
+for example, interestingly the genre that was most popular in Japan was role-playing, followed by platform games. The total Role-Playing game sales and in North America the most popular game based on sales in North America alone seems to be a sports video game with sales
