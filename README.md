@@ -23,7 +23,7 @@ The dataset provides a comprehensive list of popular games released around the l
 - **Kris Ongvises**: I am relatively new to programming but I am interested in learning about data management.
 - **Neilansh Rajpal**: I am interested in coding, astronomy, DJing and I'm a huge sports enthusiast!
 
-# Please find the link to the Milestone 4 presentation video here:
+## Please find the link to the Milestone 4 presentation video here:
    [link to video](https://drive.google.com/file/d/1Irr5qqTQuV-c744nAwh3CPEjvU-JnKLJ/view?usp=sharing)
 
 # References
