@@ -24,8 +24,8 @@ The dataset provides a comprehensive list of popular games released around the l
 - **Neilansh Rajpal**: I am interested in coding, astronomy, DJing and I'm a huge sports enthusiast!
 
 # Please find the link to the Milestone 4 presentation video here:
-   [link to video] (https://drive.google.com/file/d/1Irr5qqTQuV-c744nAwh3CPEjvU-JnKLJ/view?usp=sharing)
+   [link to video](https://drive.google.com/file/d/1Irr5qqTQuV-c744nAwh3CPEjvU-JnKLJ/view?usp=sharing)
 
 # References
-[Original dataset] (https://www.kaggle.com/sidtwr/videogames-sales-dataset)
+[Original dataset](https://www.kaggle.com/sidtwr/videogames-sales-dataset)
 
